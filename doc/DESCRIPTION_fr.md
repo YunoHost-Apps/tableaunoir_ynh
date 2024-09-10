@@ -1,0 +1,1 @@
+Tableaunoir est un outil de tableau noir collaboratif en ligne avec des aimants pour réfrigérateur disponibles dans de nombreuses langues. « Tableau noir » signifie tableau noir en français. Contrairement à de nombreux autres tableaux collaboratifs sur Internet, avec Tableaunoir vous pouvez créer des animations interactives via l'utilisation d'aimants pour réfrigérateur.

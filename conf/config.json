@@ -1,0 +1,6 @@
+{
+  "server": {
+    "websocket": "ws://127.0.0.1:__PORT__",
+    "frontend": "http://__DOMAIN__"
+  }
+}
