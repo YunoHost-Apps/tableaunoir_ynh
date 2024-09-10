@@ -24,7 +24,7 @@ Tableaunoir est un outil de tableau noir collaboratif en ligne avec des aimants 
 
 ## Captures d’écran
 
-![Capture d’écran de Tableaunoir](./doc/screenshots/example.jpg)
+![Capture d’écran de Tableaunoir](./doc/screenshots/screenshot.jpg)
 
 ## Documentations et ressources
 
