@@ -8,7 +8,7 @@ User=__APP__
 Group=__APP__
 Environment="PATH=__PATH_WITH_NODEJS__"
 WorkingDirectory=__INSTALL_DIR__/
-ExecStart=__NODEJS_DIR__/node main.js
+ExecStart=__NODEJS_DIR__/node server/main.js
 #ExecStart=__NODEJS_DIR__/npm run serve
 #ExecStart=__NODEJS_DIR__/ __INSTALL_DIR__/main.js
 
