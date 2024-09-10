@@ -24,7 +24,7 @@ Tableaunoir is an online collaborative blackboard tool with fridge magnets avail
 
 ## 截图
 
-![Tableaunoir 的截图](./doc/screenshots/example.jpg)
+![Tableaunoir 的截图](./doc/screenshots/screenshot.jpg)
 
 ## 文档与资源
 

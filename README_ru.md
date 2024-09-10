@@ -24,7 +24,7 @@ Tableaunoir is an online collaborative blackboard tool with fridge magnets avail
 
 ## Снимки экрана
 
-![Снимок экрана Tableaunoir](./doc/screenshots/example.jpg)
+![Снимок экрана Tableaunoir](./doc/screenshots/screenshot.jpg)
 
 ## Документация и ресурсы
 
