@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Tableaunoir untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/tableaunoir.svg)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/tableaunoir.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/tableaunoir.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/tableaunoir)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
+![Status kerja](https://apps.yunohost.org/badge/state/tableaunoir)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/tableaunoir)
 
 [![Pasang Tableaunoir dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tableaunoir)
 

@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Tableaunoir YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/tableaunoir.svg)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/tableaunoir.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/tableaunoir.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/tableaunoir)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/tableaunoir)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/tableaunoir)
 
 [![Instalatu Tableaunoir YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tableaunoir)
 

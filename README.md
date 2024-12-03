@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # Tableaunoir for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/tableaunoir.svg)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/) ![Working status](https://ci-apps.yunohost.org/ci/badges/tableaunoir.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/tableaunoir.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/tableaunoir)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
+![Working status](https://apps.yunohost.org/badge/state/tableaunoir)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/tableaunoir)
 
 [![Install Tableaunoir with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tableaunoir)
 
