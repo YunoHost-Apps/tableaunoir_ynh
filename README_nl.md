@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Tableaunoir voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/tableaunoir.svg)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/tableaunoir.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/tableaunoir.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/tableaunoir)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/tableaunoir)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/tableaunoir)
 
 [![Tableaunoir met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tableaunoir)
 

@@ -1,22 +1,22 @@
 <!--
-NOTA: Este README foi creado automáticamente por <https://github.com/YunoHost/apps/tree/master/tools/readme_generator>
-NON debe editarse manualmente.
+To README zostało automatycznie wygenerowane przez <https://github.com/YunoHost/apps/tree/master/tools/readme_generator>
+Nie powinno być ono edytowane ręcznie.
 -->
 
-# Tableaunoir para YunoHost
+# Tableaunoir dla YunoHost
 
-[![Nivel de integración](https://apps.yunohost.org/badge/integration/tableaunoir)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
-![Estado de funcionamento](https://apps.yunohost.org/badge/state/tableaunoir)
-![Estado de mantemento](https://apps.yunohost.org/badge/maintained/tableaunoir)
+[![Poziom integracji](https://apps.yunohost.org/badge/integration/tableaunoir)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
+![Status działania](https://apps.yunohost.org/badge/state/tableaunoir)
+![Status utrzymania](https://apps.yunohost.org/badge/maintained/tableaunoir)
 
-[![Instalar Tableaunoir con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tableaunoir)
+[![Zainstaluj Tableaunoir z YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tableaunoir)
 
-*[Le este README en outros idiomas.](./ALL_README.md)*
+*[Przeczytaj plik README w innym języku.](./ALL_README.md)*
 
-> *Este paquete permíteche instalar Tableaunoir de xeito rápido e doado nun servidor YunoHost.*  
-> *Se non usas YunoHost, le a [documentación](https://yunohost.org/install) para saber como instalalo.*
+> *Ta aplikacja pozwala na szybką i prostą instalację Tableaunoir na serwerze YunoHost.*  
+> *Jeżeli nie masz YunoHost zapoznaj się z [poradnikiem](https://yunohost.org/install) instalacji.*
 
-## Vista xeral
+## Przegląd
 
 Tableaunoir is an online collaborative blackboard tool with fridge magnets available in many languages. "Tableau noir" means blackboard in French. Contrary to plenty of other collaborative boards on the Internet, with Tableaunoir you can create interactive animations via the use of fridge magnets.
 
@@ -39,31 +39,31 @@ Tableaunoir is an online collaborative blackboard tool with fridge magnets avail
 - Make slides, record animations. This can be used to prepare slides for a talk or for a video.
 
 
-**Versión proporcionada:** 0.1~ynh1
+**Dostarczona wersja:** 0.1~ynh1
 
 **Demo:** <https://tableaunoir.github.io/>
 
-## Capturas de pantalla
+## Zrzuty ekranu
 
-![Captura de pantalla de Tableaunoir](./doc/screenshots/screenshot.jpg)
+![Zrzut ekranu z Tableaunoir](./doc/screenshots/screenshot.jpg)
 
-## Documentación e recursos
+## Dokumentacja i zasoby
 
-- Web oficial da app: <https://tableaunoir.github.io/>
-- Repositorio de orixe do código: <https://github.com/tableaunoir/tableaunoir>
-- Tenda YunoHost: <https://apps.yunohost.org/app/tableaunoir>
-- Informar dun problema: <https://github.com/YunoHost-Apps/tableaunoir_ynh/issues>
+- Oficjalna strona aplikacji: <https://tableaunoir.github.io/>
+- Repozytorium z kodem źródłowym: <https://github.com/tableaunoir/tableaunoir>
+- Sklep YunoHost: <https://apps.yunohost.org/app/tableaunoir>
+- Zgłaszanie błędów: <https://github.com/YunoHost-Apps/tableaunoir_ynh/issues>
 
-## Info de desenvolvemento
+## Informacje od twórców
 
-Envía a túa colaboración á [rama `testing`](https://github.com/YunoHost-Apps/tableaunoir_ynh/tree/testing).
+Wyślij swój pull request do [gałęzi `testing`](https://github.com/YunoHost-Apps/tableaunoir_ynh/tree/testing).
 
-Para probar a rama `testing`, procede deste xeito:
+Aby wypróbować gałąź `testing` postępuj zgodnie z instrukcjami:
 
 ```bash
 sudo yunohost app install https://github.com/YunoHost-Apps/tableaunoir_ynh/tree/testing --debug
-ou
+lub
 sudo yunohost app upgrade tableaunoir -u https://github.com/YunoHost-Apps/tableaunoir_ynh/tree/testing --debug
 ```
 
-**Máis info sobre o empaquetado da app:** <https://yunohost.org/packaging_apps>
+**Więcej informacji o tworzeniu paczek aplikacji:** <https://yunohost.org/packaging_apps>

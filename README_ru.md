@@ -5,7 +5,9 @@
 
 # Tableaunoir для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/tableaunoir.svg)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/tableaunoir.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/tableaunoir.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/tableaunoir)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
+![Состояние работы](https://apps.yunohost.org/badge/state/tableaunoir)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/tableaunoir)
 
 [![Установите Tableaunoir с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tableaunoir)
 

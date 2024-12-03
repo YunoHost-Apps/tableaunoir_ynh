@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Tableaunoir para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/tableaunoir.svg)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/tableaunoir.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/tableaunoir.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/tableaunoir)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
+![Estado funcional](https://apps.yunohost.org/badge/state/tableaunoir)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/tableaunoir)
 
 [![Instalar Tableaunoir con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=tableaunoir)
 
