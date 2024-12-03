@@ -49,7 +49,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://github.com/tableaunoir/tableaunoir.github.io/archive/master.zip"
-    sha256 = "68810f267a79d90c8733347d96f5983bc4f8f4d0892cc0b516140a6d804d0e97"
+    sha256 = "849ccf6e076ff84ec67cbaf8c9c8ed54b59501ac57fe003e3538a7b201fc361a"
 
     # autoupdate.strategy = "latest_github_tag"
 
