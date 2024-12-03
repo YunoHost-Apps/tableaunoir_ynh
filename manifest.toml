@@ -7,7 +7,7 @@ name = "Tableaunoir"
 description.en = "Online blackboard with magnets for teaching and making animations and presentations"
 description.fr = "Tableau noir en ligne avec aimants pour enseigner, créer des animations et des présentations"
 
-version = "0.1~ynh1"
+version = "0.1~ynh2"
 
 maintainers = ["eric_G"]
 
