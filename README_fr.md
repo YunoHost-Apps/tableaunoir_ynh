@@ -39,7 +39,7 @@ Tableaunoir est un outil de tableau noir collaboratif en ligne avec des aimants 
 - Créez des diapositives, enregistrez des animations. Cela peut être utilisé pour préparer des diapositives pour une conférence ou pour une vidéo.
 
 
-**Version incluse :** 0.1~ynh1
+**Version incluse :** 0.1~ynh2
 
 **Démo :** <https://tableaunoir.github.io/>
 

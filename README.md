@@ -39,7 +39,7 @@ Tableaunoir is an online collaborative blackboard tool with fridge magnets avail
 - Make slides, record animations. This can be used to prepare slides for a talk or for a video.
 
 
-**Shipped version:** 0.1~ynh1
+**Shipped version:** 0.1~ynh2
 
 **Demo:** <https://tableaunoir.github.io/>
 
