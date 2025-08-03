@@ -12,12 +12,16 @@ Online blackboard with magnets for teaching and making animations and presentati
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://tableaunoir.github.io/)
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://tableaunoir.github.io/)
-[![Version: 0.1~ynh3](https://img.shields.io/badge/Version-0.1~ynh3-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
+[![Version: 0.1~ynh4](https://img.shields.io/badge/Version-0.1~ynh4-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/tableaunoir/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/tableaunoir"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
 <a href="https://github.com/YunoHost-Apps/tableaunoir_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
 </div>
+
+
+## Screenshots
+![Screenshot of Tableaunoir](./doc/screenshots/screenshot.jpg)
 
 ## 📦 Developer info
 
