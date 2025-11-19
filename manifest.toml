@@ -7,7 +7,7 @@ name = "Tableaunoir"
 description.en = "Online blackboard with magnets for teaching and making animations and presentations"
 description.fr = "Tableau noir en ligne avec aimants pour enseigner, créer des animations et des présentations"
 
-version = "0.1~ynh6"
+version = "2025.11.19~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -47,10 +47,10 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/tableaunoir/tableaunoir.github.io/archive/master.zip"
-    sha256 = "46c8ba3d60ab6d869f4c5b828917165a38cc14348ee822cdb840222aa95fad70"
+    url = "https://github.com/tableaunoir/tableaunoir.github.io/archive/d2cdf10c4cc2b12f63b1d89a07d2e21749a8203e.tar.gz"
+    sha256 = "5b217bee0da80dacef9c861339914d04fd728c88fa4c23c9bf394db4d6268b83"
 
-    # autoupdate.strategy = "latest_github_tag"
+    autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
 
